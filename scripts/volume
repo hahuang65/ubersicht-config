@@ -1,0 +1,3 @@
+#!/usr/bin/env osascript
+
+output volume of (get volume settings) & output muted of (get volume settings)

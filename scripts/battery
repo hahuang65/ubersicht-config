@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+STATUS="$(pmset -g batt | grep "'.*'" | sed "s/'//g" | cut -c 18-19)"
+PERCENT="$(pmset -g batt | egrep '([0-9]+\%).*' --only-matching | cut -f1 -d'%')"
+
+echo "$STATUS@$PERCENT"

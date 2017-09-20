@@ -1,0 +1,13 @@
+#!/usr/bin/env sh
+
+DEVICE=$(networksetup -listnetworkserviceorder | grep 'Hardware Port' | grep Wi-Fi | awk -F '(, )|(: )|[)]' '{print $4}')
+
+ifconfig $DEVICE | grep "status: active" > /dev/null
+POWERED=$?
+
+if [ $POWERED -eq 0 ]; then
+  APN=$(networksetup -getairportnetwork en0 | awk -F ': ' '{print $2}')
+  echo $APN
+else
+  echo "OFF"
+fi

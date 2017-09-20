@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+
+yabai=/usr/local/bin/yabai
+jq=/usr/local/bin/jq
+
+# Using jq to find the focused window instead of yabai's built-in `--window`
+# This is because with the built-in `--window` operator, it errors out when there isn't a currently focused window
+CURRENTWINDOW=$($yabai --message query --windows | $jq '.[] | select(.focused==1)' | $jq --raw-output '.app')
+
+echo "$CURRENTWINDOW"

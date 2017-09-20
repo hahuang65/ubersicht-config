@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+
+yabai=/usr/local/bin/yabai
+jq=/usr/local/bin/jq
+
+SPACESLIST=($($yabai --message query --spaces | $jq --raw-output '.[] .label'))
+CURRENTSPACENAME=$($yabai --message query --spaces --space | $jq --raw-output '.label')
+echo "${SPACESLIST[@]}@$CURRENTSPACENAME"

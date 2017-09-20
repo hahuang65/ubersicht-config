@@ -1,0 +1,118 @@
+/* Dracula theme ****************/
+.background {
+  background-color: #282a36;
+}
+
+.white {
+  color: #f8f8f2;
+}
+
+.black {
+  color: #282a36;
+}
+
+.red {
+  color: #ff5555;
+}
+
+.purple {
+  color: #bd93f9;
+}
+
+.orange {
+  color: #ffb86c;
+}
+
+.yellow {
+  color: #f1fa8c;
+}
+
+.green {
+  color: #50fa7b;
+}
+
+.cyan {
+  color: #8be9fd;
+}
+
+.blue {
+  color: #6272a4;
+}
+
+.teal { /* This is actually pink for Dracula */
+  color: #ff79c6;
+}
+
+.grey {
+  color: #44475a;
+}
+
+
+/* Nord theme *******************/
+/* .background { */
+/*   background-color: #2E3440; */
+/* } */
+
+/* .cyan-background { */
+/*   background: #88C0D0; */
+/*   color: #2E3440; */
+/* } */
+
+/* .yellow-background { */
+/*   background: #EBCB8B; */
+/*   color: #2E3440; */
+/* } */
+
+/* .orange-background { */
+/*   background: #D08770; */
+/*   color: #2E3440; */
+/* } */
+
+/* .green-background { */
+/*   background: #A3BE8C; */
+/*   color: #2E3440; */
+/* } */
+
+/* .white { */
+/*   color: #D8DEE9; */
+/* } */
+
+/* .black { */
+/*   color: #2E3440; */
+/* } */
+
+/* .red { */
+/*   color: #BF616A; */
+/* } */
+
+/* .purple { */
+/*   color: #B48EAD; */
+/* } */
+
+/* .orange { */
+/*   color: #D08770; */
+/* } */
+
+/* .yellow { */
+/*   color: #EBCB8B; */
+/* } */
+
+/* .green { */
+/*   color: #A3BE8C; */
+/* } */
+
+/* .cyan { */
+/*   color: #88C0D0; */
+/* } */
+
+/* .blue { */
+/*   color: #5E81AC; */
+/* } */
+
+/* .teal { */
+/*   color: #8FBCBB; */
+/* } */
+
+/* .grey { */
+/*   color: #81A1C1; */
+/* } */

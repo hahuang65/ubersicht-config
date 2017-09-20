@@ -1,0 +1,9 @@
+span {
+  font: 18px Homespun TT BRK;
+  -webkit-font-smoothing: antialiased;
+}
+
+.icon {
+  font-size: 16px;
+  letter-spacing: 8px;
+}
