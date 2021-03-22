@@ -28,7 +28,7 @@ text: (output) ->
 
 content: (output) ->
   """
-    <span class="#{@color(output)}"><i class="icon fa fa-wifi" aria-hidden="true"></i> #{@text(output)}</span>
+    <span class="#{@color(output)}"><i class="icon fa fa-wifi" aria-hidden="true"></i>#{@text(output)}</span>
   """
 
 update: (output, domEl) ->

@@ -2,5 +2,5 @@ refreshFrequency: false
 
 render: () ->
   return """
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://kit.fontawesome.com/b2af1ebf9e.js" crossorigin="anonymous"></script>
   """

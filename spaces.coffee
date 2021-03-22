@@ -38,13 +38,13 @@ color: (space, current_space) ->
 
 icon: (space) ->
   if space == "Web"
-    "fa-chrome"
+    "fa-firefox"
   else if space == "Chat"
     "fa-commenting"
-  else if space == "Dev"
-    "fa-edit"
   else if space == "Music"
     "fa-music"
+  else if space == "Dev"
+    "fa-file-code"
 
 content: (output) ->
   """

@@ -16,7 +16,7 @@ style: """
     position: relative
   .charging
     position: relative
-    right: -26px
+    right: -27px
     z-index: 1
   """
 
