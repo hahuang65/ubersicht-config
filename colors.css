@@ -1,52 +1,100 @@
 /* Dracula theme ****************/
+/* .background { */
+/*   background-color: #282a36; */
+/* } */
+
+/* .white { */
+/*   color: #f8f8f2; */
+/* } */
+
+/* .black { */
+/*   color: #282a36; */
+/* } */
+
+/* .red { */
+/*   color: #ff5555; */
+/* } */
+
+/* .purple { */
+/*   color: #bd93f9; */
+/* } */
+
+/* .orange { */
+/*   color: #ffb86c; */
+/* } */
+
+/* .yellow { */
+/*   color: #f1fa8c; */
+/* } */
+
+/* .green { */
+/*   color: #50fa7b; */
+/* } */
+
+/* .cyan { */
+/*   color: #8be9fd; */
+/* } */
+
+/* .blue { */
+/*   color: #6272a4; */
+/* } */
+
+/* .teal { /1* This is actually pink for Dracula *1/ */
+/*   color: #ff79c6; */
+/* } */
+
+/* .grey { */
+/*   color: #44475a; */
+/* } */
+
+/* Tokyo Night Storm theme ****************/
 .background {
-  background-color: #282a36;
+  background-color: #24283b;
 }
 
 .white {
-  color: #f8f8f2;
+  color: #a9b1d6;
 }
 
 .black {
-  color: #282a36;
+  color: #414868;
 }
 
 .red {
-  color: #ff5555;
+  color: #f7768e;
 }
 
 .purple {
-  color: #bd93f9;
+  color: #bb9af7;
 }
 
 .orange {
-  color: #ffb86c;
+  color: #ff9e64;
 }
 
 .yellow {
-  color: #f1fa8c;
+  color: #e0af68;
 }
 
 .green {
-  color: #50fa7b;
+  color: #73daca;
 }
 
 .cyan {
-  color: #8be9fd;
+  color: #7dcfff;
 }
 
 .blue {
-  color: #6272a4;
+  color: #7aa2f7;
 }
 
-.teal { /* This is actually pink for Dracula */
-  color: #ff79c6;
+.teal {
+  color: #2ac3de;
 }
 
 .grey {
-  color: #44475a;
+  color: #565f89;
 }
-
 
 /* Nord theme *******************/
 /* .background { */
