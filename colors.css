@@ -47,54 +47,54 @@
 /*   color: #44475a; */
 /* } */
 
-/* Tokyo Night Storm theme ****************/
-.background {
-  background-color: #24283b;
-}
-
-.white {
-  color: #a9b1d6;
-}
-
-.black {
-  color: #414868;
-}
-
-.red {
-  color: #f7768e;
-}
-
-.purple {
-  color: #bb9af7;
-}
-
-.orange {
-  color: #ff9e64;
-}
-
-.yellow {
-  color: #e0af68;
-}
-
-.green {
-  color: #73daca;
-}
-
-.cyan {
-  color: #7dcfff;
-}
-
-.blue {
-  color: #7aa2f7;
-}
-
-.teal {
-  color: #2ac3de;
-}
-
-.grey {
-  color: #565f89;
-}
+/* /* Tokyo Night Storm theme ****************/ */
+/* .background { */
+/*   background-color: #24283b; */
+/* } */
+/**/
+/* .white { */
+/*   color: #a9b1d6; */
+/* } */
+/**/
+/* .black { */
+/*   color: #414868; */
+/* } */
+/**/
+/* .red { */
+/*   color: #f7768e; */
+/* } */
+/**/
+/* .purple { */
+/*   color: #bb9af7; */
+/* } */
+/**/
+/* .orange { */
+/*   color: #ff9e64; */
+/* } */
+/**/
+/* .yellow { */
+/*   color: #e0af68; */
+/* } */
+/**/
+/* .green { */
+/*   color: #73daca; */
+/* } */
+/**/
+/* .cyan { */
+/*   color: #7dcfff; */
+/* } */
+/**/
+/* .blue { */
+/*   color: #7aa2f7; */
+/* } */
+/**/
+/* .teal { */
+/*   color: #2ac3de; */
+/* } */
+/**/
+/* .grey { */
+/*   color: #565f89; */
+/* } */
 
 /* Nord theme *******************/
 /* .background { */
@@ -164,3 +164,52 @@
 /* .grey { */
 /*   color: #81A1C1; */
 /* } */
+
+/* Catppuccin theme ****************/
+.background {
+  background-color: #1E1E28;
+}
+
+.white {
+  color: #DFDEF1;
+}
+
+.black {
+  color: #575268;
+}
+
+.red {
+  color: #E38C8F;
+}
+
+.purple {
+  color: #C9CBFF;
+}
+
+.orange {
+  color: #F7BE95;
+}
+
+.yellow {
+  color: #ECDDAA;
+}
+
+.green {
+  color: #B1E1A6;
+}
+
+.cyan {
+  color: #92D2E8;
+}
+
+.blue {
+  color: #A3B9EF;
+}
+
+.teal {
+  color: #B7E5E6;
+}
+
+.grey {
+  color: #6E6C7E;
+}
