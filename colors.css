@@ -167,11 +167,11 @@
 
 /* Catppuccin theme ****************/
 .background {
-  background-color: #1E1E28;
+  background-color: #1E1D2F;
 }
 
 .white {
-  color: #DFDEF1;
+  color: #D9E0EE;
 }
 
 .black {
@@ -179,7 +179,7 @@
 }
 
 .red {
-  color: #E38C8F;
+  color: #F28FAD;
 }
 
 .purple {
@@ -187,27 +187,27 @@
 }
 
 .orange {
-  color: #F7BE95;
+  color: #F8BD96;
 }
 
 .yellow {
-  color: #ECDDAA;
+  color: #FAE3B0;
 }
 
 .green {
-  color: #B1E1A6;
+  color: #ABE9B3;
 }
 
 .cyan {
-  color: #92D2E8;
+  color: #89DCEB;
 }
 
 .blue {
-  color: #A3B9EF;
+  color: #96CDFB;
 }
 
 .teal {
-  color: #B7E5E6;
+  color: #B5E8E0;
 }
 
 .grey {
