@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
-yabai=/usr/local/bin/yabai
-jq=/usr/local/bin/jq
+yabai=/opt/homebrew/bin/yabai
+jq=/opt/homebrew/bin/jq
 
 # Using jq to find the focused window instead of yabai's built-in `--window`
 # This is because with the built-in `--window` operator, it errors out when there isn't a currently focused window
